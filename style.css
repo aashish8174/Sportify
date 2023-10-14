@@ -1,0 +1,28 @@
+#logo{
+    padding: 1vw;
+}
+#main-container{
+    display: flex;
+
+}
+.left-section{
+    align-items: center;
+    font-size: 1vw;
+    background-color: #000000;
+    width: 25%;
+   height: 100vb;
+}
+
+.right-section{
+    width: 75%;
+    background-color: #151515;
+   
+}
+body{
+    color: white;
+}
+.to-inline{
+    
+    justify-content:space-evenly;
+
+}
